@@ -34,6 +34,8 @@
 * **Serial Monitor**: Mencetak semua data penting (usia, suhu target, suhu aktual, kelembapan, PWM kipas, sudut ventilasi, status lampu) ke Serial Monitor untuk debugging dan pemantauan.
 * **LCD Display**: Menampilkan informasi secara bergantian di layar LCD setiap 3 detik. Halaman pertama menunjukkan usia, suhu, dan kelembapan. Halaman kedua menunjukkan persentase kipas, status lampu, dan sudut servo.
 
+---
+
 ### **5. Skema Alat**
 <img width="909" height="714" alt="image" src="https://github.com/user-attachments/assets/ec64c93e-b625-40d5-bf10-0626da1b01bc" />
 
