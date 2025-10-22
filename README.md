@@ -1,4 +1,4 @@
-# Sistem-Penjaga-Suhu-Kelembapan-Otomatis-pada-Kandang-Ayam-menggunakan-Arduino-UNO
+# sistem-penjaga-suhu-kelembapan-otomatis-pada-kandang-ayam-menggunakan-arduino-uno
 ---
 ### **1. Setup Awal**
 * **Mengimpor Library**: Menggunakan library untuk sensor DHT (suhu/kelembapan), servo, dan LCD I2C.
